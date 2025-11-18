@@ -2,7 +2,7 @@
 
 ## AIM:
 
-Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
+Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code
 
 ## TOOLS REQUIRED:
 Python IDE with Numpy and Scipy
